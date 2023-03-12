@@ -1,0 +1,22 @@
+td, td {
+    text-align: center;
+    width: 15vw;
+}
+
+.fRow{
+    flex-direction: row;
+}
+
+.fCenter {
+    justify-content: space-around;
+    justify-items: center;
+}
+
+.fSBetween {
+    justify-content: space-around;
+}
+
+.marginAuto {
+    margin-left: auto;
+    margin-right: auto;
+}
